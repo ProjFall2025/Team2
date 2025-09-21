@@ -2,8 +2,8 @@
 
 **Team Members:**  
 - Kelly M
-- Vani Reddy
-- Yashashwini Addanki
+- Vani Dasari
+- Yashaswini Addanki
 
 ---
 
@@ -80,7 +80,7 @@ The Winter Arc is a website, a digital hub designed to inspire, guide, and chall
 
 **Phase 3 – Development**  
 - **Front-end:** HTML5, CSS3 (Tailwind), JavaScript (React.js).  
-- **Back-end:** Node.js + Express for APIs, MongoDB for database.  
+- **Back-end:** Node.js + Express for APIs, MySql for database.  
 - **Hosting:** GitHub Pages (static front-end) and Heroku/Render for back-end.  
 
 **Phase 4 – Testing**  

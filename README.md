@@ -17,12 +17,12 @@ The Winter Arc is a website, a digital hub designed to inspire, guide, and chall
 ## 2. Target Users
 
 1. **Students (High School & College)**  
-   - **Demographics & Interests:** Ages 16–25, digital natives, social media active, balancing academics with personal growth.  
+   - **Demographics & Interests:** All ages, digital natives, social media active, balancing academics with personal growth.  
    - **Needs:** Motivation to stay disciplined during stressful seasons, practical productivity tools, and peer accountability.  
    - **How the site helps:** Study challenges, productivity trackers, motivational content, and a supportive online community.  
 
 2. **Young Professionals**  
-   - **Demographics & Interests:** All ages, career-focused, managing stress, fitness, and self-improvement.  
+   - **Demographics & Interests:** All ages, career focused, managing stress, fitness, and self-improvement.  
    - **Needs:** Time management strategies, mental health resources, fitness/discipline tools.  
    - **How the site helps:** Articles, habit-tracking dashboards, and curated challenges to reinforce consistency and focus.  
 

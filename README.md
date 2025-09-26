@@ -84,7 +84,7 @@ The Winter Arc is a website, a digital hub designed to inspire, guide, and chall
 - **Hosting:** GitHub Pages (static front-end) and our own server for back-end.  
 
 **Phase 4 – Testing**  
-- Unit testing with Jest (JS).  
+- Unit testing with postman.  
 - Usability tests with sample users.  
 - Security checks for login/authentication.  
 

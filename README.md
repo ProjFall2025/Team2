@@ -96,7 +96,7 @@ The Winter Arc is a website, a digital hub designed to inspire, guide, and chall
 ---
 
 ## References
-- Discord (@2xx2)
+- Discord (@2xx2
 - Habitica (https://habitica.com) – gamified habit tracker.  
 - Notion (https://www.notion.so) – productivity & organization platform.  
 - Strava (https://www.strava.com) – fitness tracking & community.  

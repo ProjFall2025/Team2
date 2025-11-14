@@ -7,6 +7,11 @@
 
 ---
 
+Project Overview (Conceptualization & Mission)
+
+The Winter Arc is a seasonal social platform built to celebrate winter — its events, DIY crafts, recipes, photo moments, local meetups, and community challenges inspired by the “Winter Arc” social trend.
+Mission statement: To empower winter lovers to discover, create, and share seasonal experiences — connecting communities through themed events, multimedia storytelling, and lightweight social interaction while making event discovery and participation simple, safe, and delightful.
+
 ## 1. Website Conceptualization
 
 **Mission Statement**  

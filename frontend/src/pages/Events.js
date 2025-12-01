@@ -11,12 +11,13 @@ export default function Events() {
   }, []);
 
   return (
-    <div>
+    <div className="container">
       <h2>Upcoming Events</h2>
       <ul>
         {events.map(event => (
           <li key={event.id}>
-            <strong>{event.title}</strong> — {new Date(event.date).toLocaleString()} @ {event.location}
+            <strong>{event.title}</strong><br />
+            {new Date(event.date).toLocaleString()} @ {event.location}
           </li>
         ))}
       </ul>

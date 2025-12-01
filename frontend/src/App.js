@@ -9,6 +9,7 @@ import ViewParticipants from './pages/ViewParticipants';
 import Navbar from './components/Navbar';
 import './App.css';
 
+
 function App() {
   return (
     <Router>

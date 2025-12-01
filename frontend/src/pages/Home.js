@@ -1,10 +1,16 @@
 import React from 'react';
+import './Home.css';
 
 export default function Home() {
   return (
-    <div className="container">
-      <h1>Welcome to The Winter Arc</h1>
-      <p>Discover and join winter events in your community!</p>
+    <div className="home-hero">
+      <div className="home-overlay">
+        <div className="home-content">
+          <h1>❄️The Winter Arc❄️</h1>
+          <p>Your Redemption Arc starts here.</p>
+          <a href="/events" className="home-button">Explore Events</a>
+        </div>
+      </div>
     </div>
   );
 }

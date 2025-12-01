@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('/winter-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px 20px;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.container, form {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  margin: 40px auto;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #000;
+}
+
+input, button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+input {
+  background-color: #fff;
+  color: #000;
+}
+
+button {
+  background-color: #1e90ff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #63b3ed;
+}

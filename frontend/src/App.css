@@ -1,59 +1,87 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('/winter-bg.jpg');
+  background: url('https://wallpaperaccess.com/full/903535.jpg') no-repeat center center fixed;
   background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  min-height: 100vh;
   color: #fff;
 }
 
 nav {
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 15px 30px;
   display: flex;
-  gap: 20px;
+  justify-content: center;
+  gap: 30px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.5);
 }
 
 nav a {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  color: #00ffff;
 }
 
-.container, form {
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 30px;
-  margin: 40px auto;
-  max-width: 500px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px #000;
+.container {
+  background-color: rgba(0, 0, 0, 0.65);
+  padding: 40px;
+  margin: 60px auto;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
 }
 
-input, button {
-  display: block;
+h1, h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ffffff;
+  text-shadow: 1px 1px 4px #000;
+}
+
+form input,
+form textarea,
+form button {
   width: 100%;
-  margin: 10px 0;
-  padding: 10px;
+  padding: 12px;
+  margin: 12px 0;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
+  font-size: 1rem;
 }
 
-input {
-  background-color: #fff;
+form input,
+form textarea {
+  background-color: #f0f0f0;
   color: #000;
 }
 
-button {
-  background-color: #1e90ff;
+form button {
+  background-color: #00bfff;
   color: #fff;
+  font-weight: bold;
   cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-button:hover {
-  background-color: #63b3ed;
+form button:hover {
+  background-color: #1e90ff;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(255,255,255,0.2);
 }

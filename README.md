@@ -9,7 +9,7 @@
 
 ## Project Overview (Conceptualization & Mission)
 
-**The Winter Arc** is a seasonal social platform inspired by the *Winter Arc* social trend — a movement centered around discipline, consistency, and personal transformation during the winter season.
+**The Winter Arc** is a seasonal social platform inspired by the *Winter Arc* social trend, a movement centered around discipline, consistency, and personal transformation during the winter season.
 
 The platform is designed to celebrate winter through:
 - Community events

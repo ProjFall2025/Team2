@@ -18,7 +18,7 @@ The platform is designed to celebrate winter through:
 - Lightweight social interaction
 
 ### 🎯 Mission Statement
-To empower students, young professionals, and community builders to embrace their “Winter Arc” — a season of focused growth, resilience, and preparation — by providing tools, motivation, and community-driven accountability.
+To empower students, young professionals, and community builders to embrace their “Winter Arc” a season of focused growth, resilience, and preparation by providing tools, motivation, and community-driven accountability.
 
 ---
 
